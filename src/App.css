@@ -1,0 +1,16 @@
+header{
+  display: flex;
+  justify-content: row;
+  height: 10%;
+    letter-spacing: 5px;
+    background-color: #ffc6ff;
+    padding: 10px;
+    box-shadow: 2px 4px 10px 3px rgb(222, 135, 210);
+}
+
+nav{
+  display: flex;
+  justify-content: row;
+  color: rgb(238, 111, 204);
+    text-decoration: none;
+}
